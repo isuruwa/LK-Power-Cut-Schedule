@@ -17,10 +17,15 @@
 ```
 apt update
 apt install python
-pip install requests
+pip install requests bs4
 git clone https://github.com/isuruwa/LK-Power-Cut-Schedule
 cd LK-Power-Cut-Schedule
 python main.py
+```
+## For Gui 
+
+```
+pip install PySimpleGUI
 ```
 
 ## EXE Version - <a href="https://github.com/isuruwa/LK-Power-Cut-Schedule/releases/tag/EXE">Download</a>
