@@ -4,6 +4,7 @@ from os import system, name
 import json, datetime
 from bs4 import BeautifulSoup
 
+#colors
 class colors:
     whit = '\033[37m'
     end = '\033[0m' # end
@@ -16,6 +17,7 @@ class colors:
     redf = '\033[41m'#redf
     yellow = '\033[93m' #yellow
 
+#clear Screen
 def clear():
     if name == 'nt':
         _ = system('cls')
