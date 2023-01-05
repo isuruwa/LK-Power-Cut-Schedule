@@ -3,6 +3,9 @@
 
 # LK-Power-Cut-Schedule is a simple script to Check your Premises Power Cut Schedule in Sri Lanka .
 
+![LK-Power-Cut-Schedule-termux](https://user-images.githubusercontent.com/72663288/210753745-bef19826-fbd3-49cb-b156-ccfc38396eea.png)
+![LK-Power-Cut-Schedule-exe](https://user-images.githubusercontent.com/72663288/210753736-360080d0-3e08-45a9-b44d-f0af0b22537d.png)
+
 ## Features 
 * No Heavy Modules
 * Simple Gui
