@@ -51,7 +51,7 @@ layout = [
 ]
 
 # Create the window
-sg.theme('LightBlue4')
+sg.theme('DarkBlue')
 window = sg.Window("LK Power Cut Schedule  - Developed By Mr.X", layout)
 
 # Event loop
