@@ -39,7 +39,6 @@ def get_interruption_times(start_date, end_date, acct_no):
 
     return "\n".join(interruptions)
 
-
 # Create the GUI layout
 layout = [
     [sg.Text("Start Date (YYYY-MM-DD):") , sg.Input(pad=(75, 0))],
