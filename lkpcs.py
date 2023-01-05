@@ -1,9 +1,8 @@
-from os import system, name
 import requests
 requests.packages.urllib3.disable_warnings()
-import json
+from os import system, name
+import json, datetime
 from bs4 import BeautifulSoup
-import datetime
 
 class colors:
     whit = '\033[37m'
@@ -23,14 +22,13 @@ def clear():
     else:
         _ = system('clear')
 
-
 def get_interruption_times(start_date, end_date, acct_no):
     # Send an HTTP request to the website and retrieve the HTML content
     url = "https://cebcare.ceb.lk"
     response = requests.get(url, verify=False)
     html_content = response.text
 
-    # Use BeautifulSoup to parse the HTML and search for the RequestVerificationToken
+    # search for the RequestVerificationToken
     soup = BeautifulSoup(html_content, 'html.parser')
     request_verification_token = soup.find(name='input', attrs={'name': '__RequestVerificationToken'})['value']
 
