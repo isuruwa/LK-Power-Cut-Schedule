@@ -23,4 +23,4 @@ cd LK-Power-Cut-Schedule
 python main.py
 ```
 
-## EXE Version - Download
+## EXE Version - <a href="https://github.com/isuruwa/LK-Power-Cut-Schedule/releases/tag/EXE">Download</a>
