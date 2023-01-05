@@ -63,7 +63,7 @@ def get_interruption_times(start_date, end_date, acct_no):
     return "\n".join(interruptions)
 
 
-
+#Menu
 clear()
 print(colors.red + r"""
    _     _  __      ____        ____        ____
