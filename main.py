@@ -1,3 +1,6 @@
+#Developed By MR.X
+#github.com/isuruwa
+
 import requests
 requests.packages.urllib3.disable_warnings()
 from os import system, name
