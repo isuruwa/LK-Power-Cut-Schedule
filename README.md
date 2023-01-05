@@ -33,3 +33,14 @@ pip install PySimpleGUI
 ```
 
 ## EXE Version - <a href="https://github.com/isuruwa/LK-Power-Cut-Schedule/releases/tag/EXE">Download</a>
+
+
+---
+### ❤️Supporters❤️ 
+
+[![Stars @isuruwa/LK-Power-Cut-Schedule](https://reporoster.com/stars/dark/isuruwa/LK-Power-Cut-Schedule)](https://github.com/isuruwa/LK-Power-Cut-Schedule/stargazers)
+
+[![Forks @isuruwa/LK-Power-Cut-Schedule](https://reporoster.com/forks/dark/isuruwa/LK-Power-Cut-Schedule)](https://github.com/isuruwa/LK-Power-Cut-Schedule/network/members)
+---
+
+## <a href="https://t.me/fsocietyadmn">Report Bugs & Errors </a>
